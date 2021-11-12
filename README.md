@@ -31,3 +31,5 @@ AIOps uses artificial intelligence to simplify IT operations management and acce
 # References
 
 https://www.ibm.com/cloud/learn/aiops
+
+https://www.moogsoft.com/resources/aiops/guide/everything-aiops/
